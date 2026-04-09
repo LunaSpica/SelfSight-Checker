@@ -1,4 +1,3 @@
-```markdown
 # 自己在家测视力 (HomeVision-Toolkit)
 
 ![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)
@@ -64,4 +63,3 @@ python src/main.py
 
 ## ⚠️ 免责声明
 本软件仅作为居家视力筛查参考，测试结果不具有医学诊断效力。如需准确的验光数据，请前往正规医院或眼科机构。
-```
